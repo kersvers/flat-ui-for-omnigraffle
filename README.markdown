@@ -8,6 +8,8 @@ Installation
 * *stencil/Flat-UI.gstencil*
   * _Description:_ Stencils grouped by type/folder
   * _Destination:_ ~/Library/Application Support/The Omni Group/Omnigraffle/Stencils
+* *template/Flat-UI-template.gtemplate*
+  * _Destination:_ ~/Library/Application Support/The Omni Group/Omnigraffle/Templates
 
 *Note*: OSX Lion hides the user's Library folder by default. You can show it by opening Terminal.app and issuing the following command `chflags nohidden ~/Library/`. ([Source: OSX Daily](http://osxdaily.com/2011/07/22/access-user-library-folder-in-os-x-lion/))
 
