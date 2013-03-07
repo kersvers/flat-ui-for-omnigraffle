@@ -4,6 +4,7 @@ A Flat UI based Omnigraffle stencil created by [Kersvers](http://krsvrs.nl)
 
 Installation
 ------------
+Copy the files to the following folders: 
 
 * *stencil/Flat-UI.gstencil*
   * _Description:_ Stencils grouped by type/folder
@@ -15,5 +16,4 @@ Installation
 
 CREDITS
 -------
-
 A big shout-out to [LayerVault](http://layervault.com) and [Flat UI](http://designmodo.github.com/Flat-UI/).
