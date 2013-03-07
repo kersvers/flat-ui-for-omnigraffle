@@ -16,4 +16,4 @@ Installation
 CREDITS
 -------
 
-A big shout-out to [Designmodo](http://designmodo.com) for designing [Flat UI](http://designmodo.github.com/Flat-UI/), a free web user interface kit.
+A big shout-out to [LayerVault](http://layervault.com) and [Flat UI](http://designmodo.github.com/Flat-UI/).
