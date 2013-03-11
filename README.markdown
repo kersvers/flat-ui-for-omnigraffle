@@ -16,4 +16,4 @@ Copy the files to the following folders:
 
 CREDITS
 -------
-A big shout-out to [LayerVault](http://layervault.com) and [Flat UI](http://designmodo.github.com/Flat-UI/).
+A big shout-out to [LayerVault](http://layervault.com) and [Flat UI](http://designmodo.com/flat/).
